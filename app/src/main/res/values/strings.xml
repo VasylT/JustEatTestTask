@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="enter_postal_code">Enter postal code</string>
+    <string name="postal_code_empty">Postal code can not be empty</string>
+    <string name="no_location">Pick location</string>
+    <string name="no_restaurants_found">No restaurants near</string>
+    <string name="permission_location_rationale">Location permission is required to show places near you</string>
+    <string name="fetch_location_progress">Fetching last location…</string>
+    <string name="get_restaurants_progress">Get restaurants list…</string>
+    <string name="get_postcode">Get postcode by location</string>
+    <string name="error_occurred">Error</string>
+    <string name="location_unknown">Location unknown</string>
+    <string name="location_broken">Location settings can not be switched on</string>
+    <string name="network_unavailable">Network connection is disabled. Please turn on wifi or mobile data</string>
+</resources>
